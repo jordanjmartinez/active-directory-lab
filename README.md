@@ -8,10 +8,8 @@ This lab was designed to practice domain management, security policies, and mult
 
 # 1. Objectives
 
-- Build a functional domain controller and enterprise network from scratch
+- Build an enterprise domain controller and network from scratch
 - Practice user/group administration, GPO deployment, and access control
-- Simulate IT and HR departments with proper role isolation
-- Enforce desktop restrictions, drive mapping, and folder redirection
 
 # 2. Lab Overview
 
