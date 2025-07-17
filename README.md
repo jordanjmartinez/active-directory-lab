@@ -6,9 +6,9 @@ This lab was designed to practice domain management, security policies, and mult
 
 ## Table of Contents
 
-1. [Objectives](#-objectives)
-2. [Lab Overview](#-lab-overview)
-3. [Technologies Used](#-technologies-used)
+### 1. [Objectives](#objectives)
+### 2. [Lab Overview](#lab-overview)
+### 3. [Technologies Used](#technologies-used)
 
 # 1. Objectives
 
