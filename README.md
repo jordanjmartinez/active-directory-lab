@@ -34,6 +34,8 @@ This lab simulates a real-world Windows enterprise environment to practice Activ
 
 # 2. Lab Overview
 
+This section provides a high-level summary of the entire lab environment, including the domain structure, organizational units, security groups, and core features like GPOs, folder redirection, and role-based access control.
+
 | Component              | Description                                 |
 |------------------------|---------------------------------------------|
 | Domain Controller      | Windows Server 2022                         |
