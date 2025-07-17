@@ -10,3 +10,21 @@ This lab was designed to practice domain management, security policies, and mult
 - Practice user/group administration, GPO deployment, and access control
 - Simulate IT and HR departments with proper role isolation
 - Enforce desktop restrictions, drive mapping, and folder redirection
+
+# Lab Overview
+
+| Component              | Description                                 |
+|------------------------|---------------------------------------------|
+| Domain Controller      | Windows Server 2022                         |
+| Domain Name            | robinhood.lab                               |
+| Client Machines        | Windows 10/11 VMs                           |
+| Roles Simulated        | HR, IT, Finance, Sales                      |
+| Key Features           | GPOs, Folder Redirection, Drive Mapping     |
+
+# Technologies Used
+
+- Windows Server 2022  
+- Windows 10/11 VM
+- Active Directory Domain Services  
+- Group Policy Management  
+- VirtualBox
