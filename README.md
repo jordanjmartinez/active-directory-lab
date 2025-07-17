@@ -12,6 +12,8 @@ This lab was designed to practice domain management, security policies, and mult
 
 # 1. Objectives
 
+This lab simulates a real-world Windows enterprise environment to practice Active Directory administration, GPO enforcement, user management, and secure network design. The objectives below cover both foundational setup and advanced tasks to reinforce practical IT skills.
+
 - Build an enterprise domain controller and network from scratch
 - Practice user/group administration, GPO deployment, and access control
 - Configure OU structured based on departments for scalable management
