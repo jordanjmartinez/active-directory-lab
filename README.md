@@ -10,6 +10,18 @@ This lab was designed to practice domain management, security policies, and mult
 
 - Build an enterprise domain controller and network from scratch
 - Practice user/group administration, GPO deployment, and access control
+- Configure OU structured based on departments for scalable management
+- Implement folder redirection to centralize user data
+- Set up drive mapping via GPO for shared network access
+- Enforce desktop restrictions based on department or role
+- Simulate least privilege access using nested security groups
+- Join client machines to the domain and validate policy enforcment
+- Create and enforce password policies and screen lock timers
+- Test user isolation, ensuring department users cannot access unauthorized shares
+- Practice delegated admin tasks using scope group permisions
+- Design and document group naming conventions for clairty and consistency
+- Simulate basic IT support tasks (resetting passwords, unlocking accounts)
+- Test real-world workflows like onboaring, offboarding, and user role changes
 
 # 2. Lab Overview
 
