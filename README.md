@@ -20,7 +20,7 @@ This lab was designed to practice domain management, security policies, and mult
 | Client Machines        | Windows 10/11 VMs                           |
 | Organizational Units   | HR, IT, Finance, Sales                      |
 | Security Groups        | HR_Group, IT_Group                          |
-| Key Features           | GPOs, Folder Redirection, Drive Mapping, Device Restrictions by Role    |
+| Key Features           | GPOs, Folder Redirection, Drive Mapping, Role-Based Device Control   |
 
 # 3. Technologies Used
 
