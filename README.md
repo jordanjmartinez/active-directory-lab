@@ -22,6 +22,9 @@ This lab was designed to practice domain management, security policies, and mult
 - Design and document group naming conventions for clairty and consistency
 - Simulate basic IT support tasks (resetting passwords, unlocking accounts)
 - Test real-world workflows like onboaring, offboarding, and user role changes
+- Integrate Active Directory Certificate Services (AD CS)
+- Configure DNS zones and records manually
+- Practice writing PowerShell scripts for AD user management
 
 # 2. Lab Overview
 
