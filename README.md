@@ -25,8 +25,8 @@ This lab was designed to practice domain management, security policies, and mult
 
 # 3. Technologies Used
 
-- Windows Server 2022  
+- Windows Server 2022 VM
 - Windows 10/11 VM
 - Active Directory Domain Services  
 - Group Policy Management  
-- VirtualBox
+- Oracle VirtualBox
